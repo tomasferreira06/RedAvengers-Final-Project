@@ -7,7 +7,7 @@
 
 Github: https://github.com/HelioGAfer
 
-https://www.linkedin.com/in/heliog-ferreira/
+LinkedIn: https://www.linkedin.com/in/heliog-ferreira/
 
 
 ### Tomás Ferreira:
