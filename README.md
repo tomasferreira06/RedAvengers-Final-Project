@@ -11,5 +11,5 @@
 
 Github: https://github.com/aarpucc/
 
-www.linkedin.com/in/brunofernandes101
+LinkedIn https://www.linkedin.com/in/brunofernandes101/
 
