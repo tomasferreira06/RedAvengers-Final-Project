@@ -5,6 +5,11 @@
 ## Members:
 ### Hélio Ferreira:
 
+Github: https://github.com/HelioGAfer
+
+https://www.linkedin.com/in/heliog-ferreira/
+
+
 ### Tomás Ferreira:
 
 ### Bruno Fernandes:
