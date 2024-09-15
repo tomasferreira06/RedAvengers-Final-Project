@@ -3,22 +3,25 @@
 ### Github Repo for the CodeForAll CyberSecurity Final Project
 
 ## Members:
-
 ##
 ### Hélio Ferreira:
 
 Github: https://github.com/HelioGAfer
 
-LinkedIn: https://www.linkedin.com/in/heliog-ferreira/
+Linkedin: https://www.linkedin.com/in/heliog-ferreira/
 
 ##
 ### Tomás Ferreira:
+
+Github: https://github.com/tomasferreira06
+
+Linkedin: https://www.linkedin.com/in/tomassferreira/
 
 ##
 ### Bruno Fernandes:
 
 Github: https://github.com/aarpucc/
 
-LinkedIn: https://www.linkedin.com/in/brunofernandes101/
+Linkedin: https://www.linkedin.com/in/brunofernandes101/
 
 ##
