@@ -2,6 +2,8 @@
 
 ### Github Repo for the CodeForAll CyberSecurity Final Project
 
+### Report: https://docs.google.com/document/d/1aTvvWDO1QsivFbK7pqU0WMv6uJH9sdxB/edit
+
 ## Members:
 ##
 ### Hélio Ferreira:
